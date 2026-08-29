@@ -2,7 +2,7 @@
 
 A modern and responsive web application designed to simplify and digitize hostel management operations. The system provides separate portals for administrators and students, making hostel management easier, faster, and more organized.
 
-## 🚀 Features
+### 🚀 Features
 
 ### 🏠 Landing Page
 - Modern and responsive design
@@ -41,7 +41,7 @@ A modern and responsive web application designed to simplify and digitize hostel
 - Role-based access structure
 - Ready for future student features
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - Next.js
 - TypeScript
@@ -49,7 +49,7 @@ A modern and responsive web application designed to simplify and digitize hostel
 - React
 - Lucide React Icons
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```text
 my-app/
